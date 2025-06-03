@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Astro
+- 🎏 I'm From Switzerland
+- 👀 I’m interested by video games , scuba diving , learnning new programing skills and PC building
+- 📖 I’m currently learning to become a cybersecurity engineer
